@@ -23,4 +23,5 @@
 <a href="https://github.com/pobk">
     <img align="center" width="49%" src="./pobk.achievements.svg" />
 </a>
-<span style="font-size: 1em">Workflow and metrics actoions/layout care of <a href="https://github.com/davidsbond/davidsbond">@davidsbond</a></span>
+<hr />
+<span style="font-size: 8pt;">Workflow and metrics actions/layout care of <a href="https://github.com/davidsbond/davidsbond">@davidsbond</a></span>
