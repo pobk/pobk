@@ -27,7 +27,6 @@ jobs:
         with:
           filename: pobk.header.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_COMMITTER }}
           user: pobk
           template: classic
           base: header
@@ -39,7 +38,6 @@ jobs:
         with:
           filename: pobk.community.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_COMMITTER }}
           user: pobk
           template: classic
           base: activity, community
@@ -51,7 +49,6 @@ jobs:
         with:
           filename: pobk.iso_calender.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_COMMITTER }}
           user: pobk
           template: classic
           base: ""
@@ -65,7 +62,6 @@ jobs:
         with:
           filename: pobk.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_COMMITTER }}
           user: pobk
           base: ""
           template: classic
@@ -82,7 +78,6 @@ jobs:
         with:
           filename: pobk.issue_pr_lang.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_COMMITTER }}
           user: pobk
           template: classic
           base: ""
@@ -96,7 +91,6 @@ jobs:
         with:
           filename: pobk.repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.METRICS_COMMITTER }}
           user: pobk
           template: classic
           plugin_lines: yes
