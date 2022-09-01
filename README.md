@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://github.com/pobk">
-  <img align="center" width="49%" src="./pobk.github-habits.svg" />
+  <img align="center" width="49%" src="./pobk.habits.svg" />
 </a>
 <a href="https://github.com/pobk">
     <img align="center" width="49%" src="./pobk.achievements.svg" />
